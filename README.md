@@ -3,6 +3,7 @@ Just a simple iOS app to hammer down on some fundamentals.
 
 Concepts utilized:
 * UIStackView (Vertical and Horizontal)
+* Auto Layout/Constraints
 * UIButton
 * Dispatch Queue
 * UIAlert
